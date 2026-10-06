@@ -1,0 +1,13 @@
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary Excel files
+~$*
+
+# Environment files
+.env
