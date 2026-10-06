@@ -5,7 +5,7 @@ Scope 2 greenhouse gas emissions following the
 GHG Protocol Corporate Accounting and Reporting Standard.
 
 ## 🔗 Live Demo
-[Open the calculator](your-streamlit-url-here)
+[Open the calculator](https://ghg-calculator-rbnbvsxa33rwgwhxmjgit7.streamlit.app/)
 
 ## 📋 What it calculates
 
